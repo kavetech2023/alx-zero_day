@@ -35,3 +35,9 @@ This repository serves as a guide to mastering the fundamentals of version contr
 
 * Discover which files belong in your repository and which ones don't.
 * Organize your codebase for clean and maintainable development.
+
+<h2>Additional Information:</h2>
+
+* __Author:__ Kevin Kavete
+* __License:__
+* __Dependencies:__
